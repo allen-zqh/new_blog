@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Zhao Qiuhan
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Master of Science in Engineering
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Beijing University of Posts and Telecommunications
+  url: "https://www.bupt.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
