@@ -43,6 +43,10 @@ url_code = ""
   focal_point = "Smart"
 +++
 
+## Time
+
+From 2017-08 to 2017-12
+
 ## Project Introduction
 
 Aiming at the problem that the growing Chinese scientific and technological literature cannot be classified automatically. Manual reading and tagging will increase labor costs, and manual methods rely too much on the professional skills of practitioners.

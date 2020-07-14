@@ -43,6 +43,10 @@ url_code = ""
   focal_point = "Smart"
 +++
 
+## Time
+
+From 2019-09 up to now
+
 ## Project Introduction
 
 This project is cooperated with the Intelligence Institute. The project aims at the shortcomings of the new knowledge discovery system last year and studies key documents in the development process by statistical method.

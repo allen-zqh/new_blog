@@ -43,6 +43,10 @@ url_code = ""
   focal_point = "Smart"
 +++
 
+## Time
+
+From 2018-08 to 2018-12
+
 ## Project Introduction
 
 The subject is a research project. It intends to find a **new cross-disciplinary** law by using text multi-label technology from the growing scientific and technological literature.

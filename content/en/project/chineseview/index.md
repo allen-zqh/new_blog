@@ -43,6 +43,10 @@ url_code = ""
   focal_point = "Smart"
 +++
 
+## Time
+
+From 2017-08 to 2017-12
+
 ## Project Introduction
 
 The project is the first project to cooperate with the Intelligence Institute (BISTI) after I enter the laboratory.

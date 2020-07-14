@@ -43,6 +43,10 @@ url_code = ""
   focal_point = "Smart"
 +++
 
+## Time
+
+From 2019-06 to 2019-11
+
 ## Project Introduction
 
 The project is aimed at a large number of scientific and technological literature. It’s to solve the problem that literature viewers can’t find the most suitable article quickly. For example, a NLP beginner, he doesn’t know what to read and which is a good article.
