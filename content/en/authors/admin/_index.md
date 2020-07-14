@@ -10,6 +10,7 @@ authors:
 superuser: true
 
 # Role/position
+name: Zhao Qiuhan
 role: Master of Science in Engineering
 
 # Organizations/Affiliations
@@ -18,7 +19,7 @@ organizations:
   url: "https://www.bupt.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include _Natural Language Processing_, _Deep Learning_ and _Data Science_. If you get interets in my research topics, please contact me as allen_zqh@bupt.edu.cn.
 
 interests:
 - Natural Language Processing
@@ -67,6 +68,14 @@ user_groups:
 - Visitors
 ---
 
-I have just gotten the Degree of M.S. and graduated from _Beijing University of Posts and Telecommunications (BUPT)_. It a long journey in BUPT, thanks a lot.
+I have just gotten the Degree of M.S. and graduated from **_Beijing University of Posts and Telecommunications (BUPT)_**. It a long journey in BUPT, and finally we have a special online graduation ceremony, thanks a lot. 
 
-I mainly focus on _Natural Language Processing_, including text classification, summarization and recommendation. Moreover, I am doing some research on _Data Science_ (e.p: prediction on time-series data) recently.
+I mainly focus on **_Natural Language Processing_**, including text classification, summarization and recommendation. Moreover, I am doing some research on **_Data Science_** (e.g. prediction on time-series data) recently.
+
+You can refer to my research in **Projects** and **Pubilcations** this page and I also record my recent work and idea in **Posts**. I will update this page as possible.
+
+<small>Hobby and Specialty: Table tennis, Singing, Football, Calligraphy and Go</small>
+
+<small>Language: Chinese (native), English (R&S&W fluent), Japanese (R&S-daily conversation)</small>
+
+<small>_(2020-07-14 15:24 in Chongqing, China) Short-intro: I am revising a journal paper recently._</small>

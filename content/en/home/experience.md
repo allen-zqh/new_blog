@@ -29,8 +29,8 @@ date_format = "Jan 2006"
   * Ye Peida Institute, BUPT (**Top 1% student**)
   * Bachelor of Engineering
   * Graduation Thesis (in Chinese)：
-       _The Design and Implementation of Chaotic Compressive Sensing Algorithm_ [[Outline]]({{% staticref "files/bkbs.jpg" "newtab" %}}view thesis{{% /staticref %}})
-		(average score: 90, won the **2017 outstanding undergraduate thesis award**)
+       _The Design and Implementation of Chaotic Compressive Sensing Algorithm_ 
+        (average score: 90, won the **2017 outstanding undergraduate thesis award**)
  """
 
 [[experience]]

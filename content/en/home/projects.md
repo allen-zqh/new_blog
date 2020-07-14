@@ -74,11 +74,5 @@ subtitle = "Projects in Lab"
  # CSS class.
  css_class = ""
 +++
-
- - [x] Chinese Internet Text View Extraction Management Software, 2017/08-2017/12.
- - [x] Subject Domain Extraction and Classification Model, 2017/08-2017/12.
- - [x] Research and Design of New Knowledge Discovery System, 2018/08-2018/12.
- - [x] Frontier Science and Technology Literature Scoring and Recommendation System, 2019/06-2019/11.
- - [x] Subject Domain Knowledge Composition and Prediction System, 2019/09-2019/11.
  
- <strong>(all in Chinese)</strong>
+_(Projects are all in Chinese)_

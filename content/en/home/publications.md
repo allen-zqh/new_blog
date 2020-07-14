@@ -21,7 +21,7 @@ subtitle = "Conference and Journal"
   offset = 0
 
   # Page order. Descending (desc) or ascending (asc) date.
-  order = "desc"
+  order = "asc"
 
   # Filter posts by a taxonomy term.
   [content.filters]
@@ -37,7 +37,7 @@ subtitle = "Conference and Journal"
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 3
+  view = 2
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -66,3 +66,5 @@ subtitle = "Conference and Journal"
  # CSS class.
  css_class = ""
 +++
+
+(_This part will be updated later...._)
