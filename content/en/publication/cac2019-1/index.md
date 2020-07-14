@@ -1,9 +1,11 @@
 +++
 title = "Sequence Generative Adversarial Network for Chinese Social Media Text Summarization"
+subtitle= "_2019 Chinese Automation Congress (CAC)_"
+
 date = 2019-10-04T16:00:00
 draft = false
 
-authors = ["Hua Rui", "Yang Wenchuan", "**Zhao Qiuhan**"]
+authors = [ "Yang Wenchuan", "Hua Rui", "**Zhao Qiuhan**"]
 
 # Publication type.
 # Legend:

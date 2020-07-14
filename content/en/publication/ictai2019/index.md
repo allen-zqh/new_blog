@@ -1,5 +1,6 @@
 +++
-title = "Design and Research of Composite Web Page Classification Network Based on Deep Learning "
+title = "Design and Research of Composite Web Page Classification Network Based on Deep Learning"
+subtitle = "_2019 IEEE 31st International Conference on Tools with Artificial Intelligence (ICTAI)_"
 date = 2019-07-04T16:00:00
 draft = false
 

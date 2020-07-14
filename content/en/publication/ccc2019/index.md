@@ -1,6 +1,6 @@
 +++
 title = "Multi-label Classification of Technical Articles Based on Deep Neural Network"
-
+subtitle="_2019 Chinese Control Conference (CCC)_"
 
 date = 2019-07-04T16:00:00
 draft = false

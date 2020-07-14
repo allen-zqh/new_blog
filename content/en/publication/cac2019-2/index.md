@@ -1,9 +1,11 @@
 +++
 title = "A Method for Massive Scientific Literature Clustering Based on Hadoop"
+subtitle= "_2019 Chinese Automation Congress (CAC)_"
+
 date = 2019-10-04T16:00:00
 draft = false
 
-authors = ["**Zhao Qiuhan**", "Yang Wenchuan", "Hua Rui"]
+authors = ["Yang Wenchuan", "**Zhao Qiuhan**", "Hua Rui"]
 
 # Publication type.
 # Legend:
