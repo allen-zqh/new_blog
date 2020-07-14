@@ -6,7 +6,7 @@ title = "Frontier Science and Technology Literature Scoring and Recommendation S
 date = 2019-11-07T09:00:00
 
 # Project summary to display on homepage.
-summary = "The project is aimed at a large number of scientific and technological literature. It’s to solve the problem that literature viewers can’t find the most suitable article quickly."
+summary = "The project aims to solve the problem that literature viewers can't find the most suitable and high-quality article quickly."
 
 # Tags: can be used for filtering projects.
 tags = ["deep learning", "clustering algorithm"]

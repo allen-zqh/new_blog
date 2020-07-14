@@ -42,7 +42,7 @@ date_format = "Jan 2006"
   date_end = "2020-06-27"
   description = """
 
-  * Collaborate with Beijing Institute of Science and Technology Information (BISTI) on NLP projects
+  * Collaborate with Beijing Institute of Science and Technology Information (BISTI) on NLP projects (refer to **Projects** part)
   * Master of Science in Engineering
   * Graduation Thesis (in Chinese)：
        _Discovery and Research of Frequent Item in Interdisciplie Based on Deep Learning_ 

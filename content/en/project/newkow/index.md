@@ -6,7 +6,7 @@ title = "Research and Design of New Knowledge Discovery System"
 date = 2018-12-05T09:00:00
 
 # Project summary to display on homepage.
-summary = "The subject is a research project. It intends to find a new cross-disciplinary law by using text multi-label technology from the growing scientific and technological literature."
+summary = "The subject  intends to find a new cross-disciplinary law by using text multi-label from the growing scientific literature."
 
 # Tags: can be used for filtering projects.
 tags = ["deep learning", "clustering algorithm"]

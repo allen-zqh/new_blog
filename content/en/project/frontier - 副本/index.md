@@ -6,7 +6,7 @@ title = "Subject Domain Knowledge Composition and Prediction System"
 date = 2019-11-29T09:00:00
 
 # Project summary to display on homepage.
-summary = "This project is cooperated with the Intelligence Institute. The project aims at the shortcomings of the new knowledge discovery system last year and studies key documents in the development process by statistical method."
+summary = "It improves the _New Knowledge Discovery System_ and shows key documents in the development process by statistical method."
 
 # Tags: can be used for filtering projects.
 tags = ["deep learning", "clustering algorithm"]
