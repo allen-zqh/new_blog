@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 65  # Order that this section will appear.
 
 title = "Projects"
-subtitle = ""
+subtitle = "Projects in Lab"
 
 [content]
   # Page type to display. E.g. project.
@@ -42,7 +42,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 3
+  view = 2
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = false
@@ -75,3 +75,10 @@ subtitle = ""
  css_class = ""
 +++
 
+ - [x] Chinese Internet Text View Extraction Management Software, 2017/08-2017/12.
+ - [x] Subject Domain Extraction and Classification Model, 2017/08-2017/12.
+ - [x] Research and Design of New Knowledge Discovery System, 2018/08-2018/12.
+ - [x] Frontier Science and Technology Literature Scoring and Recommendation System, 2019/06-2019/11.
+ - [x] Subject Domain Knowledge Composition and Prediction System, 2019/09-2019/11.
+ 
+ <strong>(all in Chinese)</strong>
