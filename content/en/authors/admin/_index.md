@@ -70,9 +70,11 @@ user_groups:
 
 I have just gotten the Degree of M.S. and graduated from **_Beijing University of Posts and Telecommunications (BUPT)_**. It a long journey in BUPT, and finally we have a special online graduation ceremony, thanks a lot. 
 
+I was selected by BUPT and attended into [Ye Peida Institute] (https://baike.baidu.com/item/%E5%8F%B6%E5%9F%B9%E5%A4%A7%E5%AD%A6%E9%99%A2/4492808?fr=aladdin) when I was an undergraduate. Under the guidance of [Prof. Liu Liang] (https://scs.bupt.edu.cn/info/1097/1346.htm), I learned about compression sensing, multimedia computing and intelligent text processing. The undergraduate thesis "_The Design and Implementation of Chaotic Compressive Sensing Algorithm_" won "_2017 Excellent Undergraduate Graduation Thesis Award_" in BUPT. After entering the graduate school, I studied under [Associate Prof. Yang Wenchuan] (https://scss.bupt.edu.cn/info/1063/1135.htm) to continue learning natural language processing related research topics.
+
 I mainly focus on **_Natural Language Processing_**, including text classification, summarization and recommendation. Moreover, I am doing some research on **_Data Science_** (e.g. prediction on time-series data) recently.
 
-You can refer to my research in **Projects** and **Pubilcations** this page and I also record my recent work and idea in **Posts**. I will update this page as possible.
+You can refer to my research in **Projects** and **Pubilcations** this page and I also record my recent work and idea in **Posts**. I will update this page as possible. Additionally, you can click the button in the upper right corner to switch languae _(EN-CN-JP)_, but CN and JP only contain personal information page.
 
 <small>Hobby and Specialty: Table tennis, Singing, Football, Calligraphy and Go</small>
 
