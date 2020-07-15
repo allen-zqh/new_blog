@@ -18,11 +18,11 @@ draft: false
 # Placement options: 1 = Full column width, 2 = Out-set, 3 = Screen-width
 # Focal point options: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight
 
-#image:
-#  placement: 2
-#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-#  focal_point: ""
-#  preview_only: false
+image:
+  placement: 1
+  caption: 'Image credit: **Zhao Qiuhan**'
+  focal_point: "Smart"
+  preview_only: false
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -41,4 +41,4 @@ It is a long journey in _Beijing University of Posts and Telecommunications_. I 
 After graduation, I have planed for my futhur study. The schedule is shown as follows:
 
 1. Learn Japanese, 2020.08-09. Cause the busy work in lab, I still not finish some Japanese courses.
-2. Keep reading and learning.
+2. Keep reading and learning. 
