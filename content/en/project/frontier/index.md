@@ -1,6 +1,6 @@
 +++
 # Project title.
-title = "Frontier Science and Technology Literature Scoring and Recommendation System"
+title = "Frontier Scientific Literature Scoring and Recommendation System"
 
 # Date this page was created.
 date = 2019-11-07T09:00:00
