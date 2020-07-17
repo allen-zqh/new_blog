@@ -35,7 +35,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "/file/poster/cac-hadoop.pdf"
+url_poster = "/files/poster/cac-hadoop.pdf"
 url_source = ""
 
 # Custom links (optional).
