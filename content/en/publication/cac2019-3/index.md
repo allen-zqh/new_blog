@@ -35,7 +35,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "/file/poster/cac-bert.pdf"
 url_source = ""
 
 # Custom links (optional).
