@@ -24,7 +24,7 @@ slides = ""
 
 # Links (optional).
 url_pdf = ""
-url_slides = ""
+url_slides = "/files/slide/lecture_multi.pdf"
 url_video = ""
 url_code = ""
 

@@ -29,7 +29,8 @@ date_format = "Jan 2006"
   * Ye Peida Institute, BUPT (**Top 1% student**)
   * Bachelor of Engineering
   * Graduation Thesis (in Chinese)：
-       _Design and Implementation of Chaotic Compressive Sensing Algorithm_ [[Outline]](/img/bkbs.jpg) 
+       _The Design and Implementation of Chaotic Compressive Sensing Algorithm_ [[Outline]](/img/bkbs.jpg) 
+[[Slide]](/files/slide/bkbs.pdf) [[Paper_shortversion]](/files/paper/bkbs_short.pdf)
         (average score: 90, won the **2017 outstanding undergraduate thesis award**)
  """
 
@@ -45,7 +46,7 @@ date_format = "Jan 2006"
   * Collaborate with Beijing Institute of Science and Technology Information (BISTI) on NLP projects (refer to **Projects** part)
   * Master of Science in Engineering
   * Graduation Thesis (in Chinese)：
-       _Discovery and Research of Frequent Item in Interdisciplie Based on Deep Learning_ [[Outline]](/img/yjsbs.jpg) 
+       _Discovery and Research of Frequent Item in Interdisciplie Based on Deep Learning_ [[Outline]](/img/yjsbs.jpg) [[Slide]](/files/slide/yjsbs.pdf)
         (average score: 87)
 """
 
