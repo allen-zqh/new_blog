@@ -1,5 +1,5 @@
 ---
-title: 'Something after graduation'
+title: 'Something after Graduation'
 #subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: The plan and recent work after graduation
 authors:

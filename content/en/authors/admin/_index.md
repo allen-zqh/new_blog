@@ -80,4 +80,4 @@ You can refer to my research in **Projects** and **Pubilcations** this page and 
 
 <small>Language: Chinese (native), English (R&S&W fluent), Japanese (R&S-daily conversation)</small>
 
-_<small>(2020-07-14 15:24 in Chongqing, China) Short-intro: I am revising a journal paper recently. </small>_
+_<small>(2020-07-20 17:07 in Chongqing, China) Short-intro: I am revising a journal paper recently. </small>_

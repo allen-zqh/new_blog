@@ -1,5 +1,5 @@
 ---
-title: 'This is my new blog'
+title: 'This is My New Blog'
 #subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Introduction to the new blog
 authors:
