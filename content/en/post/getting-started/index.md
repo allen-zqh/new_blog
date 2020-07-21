@@ -9,8 +9,8 @@ tags:
 - Blog
 categories:
 - Demo
-date: "2019-11-16T16:00:00Z"
-#lastmod: "2019-11-16T16:00:00Z"
+date: "2019-12-06T16:00:00Z"
+lastmod: "2019-12-06T17:00:00Z"
 featured: false
 draft: false
 
