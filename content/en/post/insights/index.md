@@ -9,7 +9,7 @@ tags:
 categories:
 - day
 date: "2020-07-20T16:00:00Z"
-lastmod: "2020-07-20T17:35:00Z"
+#lastmod: "2020-07-20T17:35:00Z"
 featured: false
 draft: false
 

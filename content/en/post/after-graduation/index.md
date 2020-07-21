@@ -9,7 +9,7 @@ tags:
 categories:
 - Day
 date: "2020-07-13T17:00:00Z"
-lastmod: "2020-07-13T17:15:00Z"
+#lastmod: "2020-07-13T17:15:00Z"
 featured: false
 draft: false
 
@@ -38,7 +38,9 @@ It is a long journey in _Beijing University of Posts and Telecommunications_. I 
 
 ## Schedule
 
-After graduation, I have planed for my futhur study. The schedule is shown as follows:
+After graduation, I have planed for my futhur study. The recentschedule is shown as follows, If I complete all the above arrangements on time, I will tick and note the completion time:
 
-1. Learn Japanese, 2020.08-09. Cause the busy work in lab, I still not finish some Japanese courses.
-2. Keep reading and learning. 
+ - [ ] _2020.08-2020.09_. Learn Japanese. Cause the busy work in lab, I still not finish some Japanese courses.
+ - [ ] _2020.07-2020.08_. Completing a journal paper (the subject is network traffic prediction). The first draft has been completed, and the drawing and translation are currently underway.
+ - [ ] _From 2020.09_. According to the follow-up study arrangement, I may go to the company for internship. In addition, I am preparing lessons (natural language processing related). While teaching to undergraduates, consolidate my basic knowledge and accumulate teaching experience.
+ - [ ] _ALWAYS!_. Keep reading and learning. 
