@@ -32,6 +32,10 @@ image:
 projects: []
 ---
 
+### ------------------------------------------------------
+### July 13, 2020 in Chongqing, China
+### ------------------------------------------------------
+
 ## Graduation
 
 It is a long journey in _Beijing University of Posts and Telecommunications_. I have been in Beijing for 7 years. However, I have no chance to get back to the campus due to the coronavirus. So, we just hold an online procedure for graduation.
@@ -40,7 +44,7 @@ It is a long journey in _Beijing University of Posts and Telecommunications_. I 
 
 After graduation, I have planed for my futhur study. The recentschedule is shown as follows, If I complete all the above arrangements on time, I will tick and note the completion time:
 
- - [ ] _2020.08-2020.09_. Learn Japanese. Cause the busy work in lab, I still not finish some Japanese courses.
- - [ ] _2020.07-2020.08_. Completing a journal paper (the subject is network traffic prediction). The first draft has been completed, and the drawing and translation are currently underway.
- - [ ] _From 2020.09_. According to the follow-up study arrangement, I may go to the company for internship. In addition, I am preparing lessons (natural language processing related). While teaching to undergraduates, consolidate my basic knowledge and accumulate teaching experience.
- - [ ] _ALWAYS!_. Keep reading and learning. 
+ - [ ] _Oct - Sept, 2020_. Learn Japanese. Cause the busy work in lab, I still not finish some Japanese courses.
+ - [ ] _Jul - Aug, 2020_. Completing a journal paper (the subject is network traffic prediction). The first draft has been completed, and the drawing and translation are currently underway.
+ - [ ] _From Sept, 2020_. According to the follow-up study arrangement, I may go to the company for internship. In addition, I am preparing lessons (natural language processing related). While teaching to undergraduates, consolidate my basic knowledge and accumulate teaching experience.
+ - [ ] _**ALWAYS!**_  Keep reading and learning. 

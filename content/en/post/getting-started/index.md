@@ -32,7 +32,9 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
+### ---------------------------------------------
+### Dec 6, 2019 in Beijing, China
+### ---------------------------------------------
 ## Begin
 
 This is my new blog. This blog is mainly used to introduce some of my work and resume. In addition, I will post some recent research progress and results in **Posts** part from time to time. The old one can be followed as: [Allen.c](https://www.cnblogs.com/catallen/).
