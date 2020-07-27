@@ -74,7 +74,7 @@ I was selected by BUPT and attended into [Ye Peida Institute](https://baike.baid
 
 I mainly focus on **_Natural Language Processing_**, including text classification, summarization and recommendation. Moreover, I am doing some research on **_Data Science_** (e.g. prediction on time-series data) recently.
 
-You can refer to my research in **Projects** and **Pubilcations** this page and I also record my recent work and idea in **Posts**. I will update this page as possible. Additionally, you can click the button in the upper right corner to switch languae _(EN-CN-JP)_, but CN and JP only contain personal information page.
+You can refer to my research in **Projects** and **Publications** this page and I also record my recent work and idea in **Posts**. I will update this page as possible. Additionally, you can click the button in the upper right corner to switch language _(EN-CN-JP)_, but CN and JP only contain personal information page.
 
 <small>Hobby and Specialty: Table tennis, Singing, Football, Calligraphy and Go</small>
 

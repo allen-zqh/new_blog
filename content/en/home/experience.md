@@ -46,7 +46,7 @@ date_format = "Jan 2006"
   * Collaborate with Beijing Institute of Science and Technology Information (BISTI) on NLP projects (refer to **Projects** part)
   * Master of Science in Engineering
   * Graduation Thesis (in Chinese)：
-       _Discovery and Research of Frequent Item in Interdisciplie Based on Deep Learning_ [[Outline]](/img/yjsbs.jpg) [[Slide]](/files/slide/yjsbs.pdf)
+       _Discovery and Research of Frequent Item in Interdiscipline Based on Deep Learning_ [[Outline]](/img/yjsbs.jpg) [[Slide]](/files/slide/yjsbs.pdf)
         (average score: 87)
 """
 
