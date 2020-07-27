@@ -67,4 +67,4 @@ subtitle = "Conference and Journal"
  css_class = ""
 +++
 
-(_You can view more details about the paper and conference or journal via **click the title**. This part will be updated later...._)
+(_You can view more details about the paper and conference or journal via **clicking the title**. This part will be updated later...._)
