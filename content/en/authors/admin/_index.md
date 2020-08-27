@@ -80,4 +80,4 @@ You can refer to my research in **Projects** and **Publications** this page and 
 
 <small>Language: Chinese (native), English (R&S&W fluent), Japanese (R&S-daily conversation)</small>
 
-_<small>(2020-07-20 17:07 in Chongqing, China) Short-intro: I am revising a journal paper recently. </small>_
+_<small>(2020-08-27 12:55 in Chongqing, China) Short-intro: After completing the journal paper, I recently submitted a collaborative paper to [**IEEE BigData 2020**](http://bigdataieee.org/BigData2020/index.html) (government track). </small>_

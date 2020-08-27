@@ -82,4 +82,4 @@ user_groups:
 
 <small>言語：中国語、英語、日本語</small>
 
-_<small>(2020-07-20 17:07 中国 重慶) 記録：卒業後、現在、学術論文を改訂しています。</small>_
+_<small>(2020-8-27 12:55 中国 重慶) 記録：ジャーナル論文を完成させた後、[**IEEE BigData 2020**](http://bigdataieee.org/BigData2020/index.html) (government track)に共同論文を提出しました。</small>_

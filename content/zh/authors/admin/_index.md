@@ -80,4 +80,4 @@ user_groups:
 
 <small>语言：中文，英文，日文</small>
 
-_<small>(2020-07-20 17:07 重庆市) 记录：毕业后，我最近在修改一篇期刊论文。</small>_
+_<small>(2020-08-27 12:55 重庆市) 记录：在完成期刊论文后，近期向 [**IEEE BigData 2020**](http://bigdataieee.org/BigData2020/index.html) (government track) 提交了一篇合作论文。</small>_
