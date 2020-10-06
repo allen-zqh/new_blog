@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-I have just got the Degree of M.S. and graduated from **_Beijing University of Posts and Telecommunications (BUPT)_**. It is a long journey in BUPT, and finally we have a special online graduation ceremony, thanks a lot. 
+<small>(2020-10-06 22:41 in Changchun, China)  I am now in the [Preparatory School for Chinese Students to Japan](http://lryx.nenu.edu.cn/), [Northeast Normal University (NENU)](http://www.nenu.edu.cn/) for taking Japanese course, arranged by the [2021 MEXT Scholarship](https://www.mext.go.jp/content/20200521-mxt_gakushi02-000007188-02.pdf). The expected study time is from Oct, 2020 to Aug, 2021.</small>
 
 I was selected by BUPT and attended into [Ye Peida Institute](https://baike.baidu.com/item/%E5%8F%B6%E5%9F%B9%E5%A4%A7%E5%AD%A6%E9%99%A2/4492808?fr=aladdin) when I was an undergraduate. Under the guidance of [Prof. Liu Liang](https://scs.bupt.edu.cn/info/1097/1346.htm), I learned about compression sensing, multimedia computing and intelligent text processing. The undergraduate thesis "_The Design and Implementation of Chaotic Compressive Sensing Algorithm_" won "_2017 Excellent Undergraduate Graduation Thesis Award_" in BUPT. After entering the graduate school, I studied under [Associate Prof. Yang Wenchuan](https://scss.bupt.edu.cn/info/1063/1135.htm) to continue learning natural language processing related research topics.
 
@@ -78,6 +78,4 @@ You can refer to my research in **Projects** and **Publications** this page and 
 
 <small>Hobby and Specialty: Table tennis, Singing, Football, Calligraphy and Go</small>
 
-<small>Language: Chinese (native), English (R&S&W fluent), Japanese (R&S-daily conversation)</small>
-
-_<small>(2020-08-27 12:55 in Chongqing, China) Short-intro: After completing the journal paper, I recently submitted a collaborative paper to [**IEEE BigData 2020**](http://bigdataieee.org/BigData2020/index.html) (government track). </small>_
+<small>Language: Chinese, English, Japanese</small>
