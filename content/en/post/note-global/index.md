@@ -44,7 +44,7 @@ I have put this book into Kindle and planed reading a small chapter everday. Bec
 
 ## note
 
-Chapter 1: [Introduction: Needs for New Global Strategies](/static/files/note/global/1.pdf)
+Chapter 1: [Introduction: Needs for New Global Strategies](/files/note/global/1.pdf)
 
 Chapter 2: 
 
