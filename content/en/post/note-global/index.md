@@ -1,5 +1,5 @@
 ---
-title: 'Reading Notes'
+title: 'Reading Notes (Updating)'
 #subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Global Business Strategy -- Kazuyuki Motohashi
 authors:
@@ -8,8 +8,8 @@ tags:
 - Blog
 categories:
 - Note
-date: "2020-10-07T17:00:00Z"
-lastmod: "2020-10-07T17:00:00Z"
+date: "2020-10-06T16:00:00Z"
+#lastmod: "2020-10-07T21:47:00Z"
 featured: false
 draft: false
 
@@ -20,8 +20,8 @@ draft: false
 
 image:
   placement: 1
-  caption: 'The cover of this book.'
-  focal_point: "Smart"
+  caption: 'Cover of the book.'
+  focal_point: "Center"
   preview_only: false
 
 # Projects (optional).
@@ -36,10 +36,15 @@ projects: []
 ### Oct 07, 2020 in Changchun, China
 ### ------------------------------------------------------
 
+Click [here](https://link.springer.com/book/10.1007%2F978-4-431-55468-4) to download the book in PDF format.
+
 ## introduction
 
-I have put this book into my Kindle and planed reading a small chapter everday. Because I have no such study experience and basement of bussiness, so it is useful for me to read this book for earning some **professional words** and **conceptions**. I will make notes after reading a whole chapter.
+I have put this book into Kindle and planed reading a small chapter everday. Because I have no such study experience and basement of bussiness research, so it is useful for earning some professional **words** and **conceptions**. I will make notes after reading a whole chapter.
 
 ## note
 
-Chapter 1: [Introduction: Needs for New Global Strategies](/static/files/note/bkbs_short.pdf)
+Chapter 1: [Introduction: Needs for New Global Strategies](/static/files/note/global/1.pdf)
+
+Chapter 2: 
+
