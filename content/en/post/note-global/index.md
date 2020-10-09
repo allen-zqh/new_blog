@@ -40,11 +40,11 @@ Click [here](https://link.springer.com/book/10.1007%2F978-4-431-55468-4) to down
 
 ## introduction
 
-I have put this book into Kindle and planed reading a small chapter everday. Because I have no such study experience and basement of bussiness research, so it is useful for earning some professional **words** and **conceptions**. I will make notes after reading a whole chapter.
+I have put this book into Kindle and planed reading a small chapter everday. Because I have no such study experience and basement of bussiness research, so it is useful for earning some professional **words**, **conceptions**, as well as **case study**. I will make notes after reading each whole chapter.
 
 ## note
 
 Chapter 1: [Introduction: Needs for New Global Strategies](/files/note/global/1.pdf)
 
-Chapter 2: 
+# Chapter 2: 
 
