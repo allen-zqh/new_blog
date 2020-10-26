@@ -42,8 +42,10 @@ Click [here](https://link.springer.com/book/10.1007%2F978-4-431-55468-4) to down
 
 I have put this book into Kindle and planed reading a small chapter everday. Because I have no such study experience and basement of bussiness research, so it is useful for earning some professional **terms**, **conceptions**, as well as **case study**. I will make notes after reading each whole chapter.
 
-## note
+## note list
 
-Chapter 1&2: [Introduction: Needs for New Global Strategies](/files/note/global/1,2.pdf)
+[Chapter 1&2](/files/note/global/1,2.pdf)
+
+[Chapter 3](/files/note/global/3,4.pdf) (Updating)
 
 
