@@ -40,12 +40,14 @@ Click [here](https://link.springer.com/book/10.1007%2F978-4-431-55468-4) to down
 
 ## introduction
 
-I have put this book into Kindle and planed reading a small chapter everday. Because I have no such study experience and basement of bussiness research, so it is useful for earning some professional **terms**, **conceptions**, as well as **case study**. I will make notes after reading each whole chapter.
+I have put this book into Kindle and planned to read a part of the chapter everday. Because I have no such study experience or basement of bussiness research, so it is useful for earning some professional **terms**, **conceptions**, as well as **case study**. I will make notes for each whole chapter.
 
 ## note list
 
 [Chapter 1&2](/files/note/global/1,2.pdf)
 
-[Chapter 3](/files/note/global/3,4.pdf) (Updating)
+[Chapter 3&4](/files/note/global/3,4.pdf) 
+
+[Chapter 5](/files/note/global/5.pdf) (Updating)
 
 
