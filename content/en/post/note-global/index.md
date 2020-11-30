@@ -36,7 +36,7 @@ projects: []
 ### Oct 07, 2020 in Changchun, China
 ### ------------------------------------------------------
 
-Click [here](https://link.springer.com/book/10.1007%2F978-4-431-55468-4) to download the book in PDF format.
+Click [here](https://link.springer.com/book/10.1007%2F978-4-431-55468-4) to download the book in PDF format. More, slides of the lecture can be followed as [here](http://www.mo.t.u-tokyo.ac.jp/kyouiku/GB2020.htm). 
 
 ## introduction
 
