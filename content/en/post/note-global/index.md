@@ -48,6 +48,6 @@ I have put this book into Kindle and planned to read a part of the chapter everd
 
 [Chapter 3&4](/files/note/global/3,4.pdf) 
 
-[Chapter 5](/files/note/global/5.pdf) (Updating)
+[Chapter 5](/files/note/global/5.pdf)
 
 
