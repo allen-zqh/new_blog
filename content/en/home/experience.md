@@ -63,7 +63,7 @@ date_format = "Jan 2006"
   * Japanese course (9 months)
   * Professional course in Japanese (1 month)
 
-    * Supervisor: **Emeritus Prof. [KOGA Ryuji](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200901046797800994)**<br>[Graduate School of Natural Science and Technology](https://www.gnst.okayama-u.ac.jp/), [Okayama Univ.](http://www.okayama-u.ac.jp/index.html).
+    * Supervisor: **Emeritus Prof. [KOGA Ryuji](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200901046797800994)** <br>[Graduate School of Natural Science and Technology](https://www.gnst.okayama-u.ac.jp/), [Okayama Univ.](http://www.okayama-u.ac.jp/index.html).
     * Graduation thesis and defense(in Japanese): [[PDF]](/files/paper/thesis_JP.pdf) [[Slide]](/files/slide/thesis_slide_JP.pdf).
 """
 
