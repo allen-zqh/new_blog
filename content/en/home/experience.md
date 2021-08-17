@@ -52,16 +52,16 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Preparatory"
-  company = "Preparatory School for Chinese Students to Japan"
+  company = "Preparatory School for Chinese Students to Japan, NENU"
   company_url = "https://lryx.nenu.edu.cn/"
   location = "Changchun"
   date_start = "2020-10-07"
   date_end = "2021-08-26"
   description = """
 
-  * The Training Center of Ministry of Education for Studing Overseas(MEXT-CSC)
+  * The Training Center of Ministry of Education for Studing Overseas (MEXT-CSC)
   * Japanese course (9 months)
-  * Professional course in Japanese (1 month)
+  * Professional Japanese course (1 month)
 
     * Supervisor: **Emeritus Prof. [KOGA Ryuji](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200901046797800994)** <br>[Graduate School of Natural Science and Technology](https://www.gnst.okayama-u.ac.jp/), [Okayama Univ.](http://www.okayama-u.ac.jp/index.html).
     * Graduation thesis and defense(in Japanese): [[PDF]](/files/paper/thesis_JP.pdf) [[Slide]](/files/slide/thesis_slide_JP.pdf).
