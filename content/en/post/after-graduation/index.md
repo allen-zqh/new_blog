@@ -45,6 +45,7 @@ It is a long journey in _Beijing University of Posts and Telecommunications_. I 
 After graduation, I have planed for my futhur study. The recentschedule is shown as follows, If I complete all the above arrangements on time, I will tick and note the completion time:
 
  - [x] _Oct - Sept, 2020_. Learn Japanese. Cause the busy work in lab, I still not finish some Japanese courses.
- - [x] _Jul - Aug, 2020_. Completing a journal paper (the subject is network traffic prediction). The first draft has been completed, and the drawing and translation are currently underway.
- - [ ] _From Sept, 2020_. According to the follow-up study arrangement, I may go to the company for internship. In addition, I am preparing lessons (natural language processing related). While teaching to undergraduates, consolidate my basic knowledge and accumulate teaching experience.
+ - [x] _Jul - Aug, 2020_. Completing a journal paper (the subject is network traffic prediction). The first draft has been completed, and the drawing and translation are currently underway. \
+(Update, _21 May 2021_)This [paper](https://www.inderscience.com/info/inarticle.php?artid=116539) has been published in [IJWGS](https://www.inderscience.com/jhome.php?jcode=ijwgs).
+ - [x] _From Sept, 2020_. According to the follow-up study arrangement, I may go to the company for internship. In addition, I am preparing lessons (natural language processing related). While teaching to undergraduates, consolidate my basic knowledge and accumulate teaching experience.
  - [ ] _**ALWAYS!**_  Keep reading and learning. 

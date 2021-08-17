@@ -28,9 +28,9 @@ interests:
 
 education:
   courses:
-  - course: RS&PH.D
-    institution: Graduate School of Engineering, University of Tokyo
-    year: 2021-
+  - course: RS & PH.D
+    institution: Graduate School of Engineering, U.Tokyo
+    year: 2021- current
   - course: MS.
     institution: Graduate School of Cyberspace Security, BUPT
     year: 2017-2020

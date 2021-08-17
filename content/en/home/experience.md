@@ -51,17 +51,34 @@ date_format = "Jan 2006"
 """
 
 [[experience]]
-  title = "Intern"
-  company = "China Information Technology Security Evaluation Center"
-  company_url = "http://www.itsec.gov.cn/"
-  location = "Beijing"
-  date_start = "2017-01-01"
-  date_end = "2020-10-01"
+  title = "Preparatory"
+  company = "Preparatory School for Chinese Students to Japan"
+  company_url = "https://lryx.nenu.edu.cn/"
+  location = "Changchun"
+  date_start = "2020-10-07"
+  date_end = "2021-08-26"
   description = """
 
-  * Vulnerability Detection
-  * Data Analysing (Crawl and Data Science)
-  * Patch
+  * The Training Center of Ministry of Education for Studing Overseas(MEXT-CSC)
+  * Japanese course (9 months)
+  * Professional course in Japanese (1 month)
+
+    * Supervisor: **Emeritus Prof. [KOGA Ryuji](https://jglobal.jst.go.jp/detail?JGLOBAL_ID=200901046797800994)**<br>[Graduate School of Natural Science and Technology](https://www.gnst.okayama-u.ac.jp/), [Okayama Univ.](http://www.okayama-u.ac.jp/index.html).
+    * Graduation thesis and defense(in Japanese): [[PDF]](/files/paper/thesis_JP.pdf) [[Slide]](/files/slide/thesis_slide_JP.pdf).
+"""
+
+[[experience]]
+  title = "Intern"
+  company = "Beijing Institute of Science and Technology Information"
+  company_url = "http://www.bjstinfo.com.cn/"
+  location = "Beijing"
+  date_start = "2017-10-15"
+  date_end = "2019-12-01"
+  description = """
+
+  * Data Collection
+  * Analysis of DL Algorithms
+  * Modeling Evaluation in practical NLP problems
 """
 
 [[experience]]
