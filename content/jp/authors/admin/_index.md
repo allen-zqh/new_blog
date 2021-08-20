@@ -28,11 +28,14 @@ interests:
 
 education:
   courses:
+  - course: 博士課程
+    institution: 工学研究科　技術経営戦略専攻　東京大学
+    year: 2021-current
   - course: 工学修士
-    institution: サイバースペースのセキュリティ大学院　情報セキュリティ専攻　北京郵電大学
+    institution: 情報工学研究科　情報セキュリティ専攻　北京郵電大学
     year: 2017-2020
   - course: 工学士
-    institution: コンピューター学院　情報セキュリティ専攻　北京郵電大学
+    institution: 情報工学部　情報セキュリティ専攻　北京郵電大学
     year: 2013-2017
 
 # Social/Academic Networking
