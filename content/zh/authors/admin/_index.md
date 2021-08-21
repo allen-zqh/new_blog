@@ -25,17 +25,18 @@ interests:
 - 自然语言处理
 - 深度学习
 - 大数据与数据科学
+- 文献计量分析
 
 education:
   courses:
   - course: 博士课程
-    institution: 工学研究科，东京大学
+    institution: 工学系研究科，技术经营战略学，东京大学
     year: 2021-今
   - course: 工学硕士
-    institution: 网络空间安全学院研究生院，北京邮电大学
+    institution: 网络空间安全学院研究生院，网络空间安全，北京邮电大学
     year: 2017-2020
   - course: 工学学士
-    institution: 计算机学院/网络空间安全学院，北京邮电大学
+    institution: 计算机学院/网络空间安全学院，信息安全，北京邮电大学
     year: 2013-2017
 
 # Social/Academic Networking

@@ -11,24 +11,25 @@ superuser: true
 
 # Role/position
 name: Zhao Qiuhan
-role: Master of Science in Engineering
+role: International Research Student<br>(prospective Ph.d candidate)
 
 # Organizations/Affiliations
 organizations:
-- name: Beijing University of Posts and Telecommunications
-  url: "https://www.bupt.edu.cn/"
+- name: The University of Tokyo
+  url: "https://www.u-tokyo.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include _Natural Language Processing_, _Deep Learning_ and _Data Science_. If you get interets in my research topics, please contact me as zhaoqiuhan2019@outlook.com.
+bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in science economy. If you get interets in my research topics, please contact me as zhaoqiuhan2019@outlook.com.
 
 interests:
 - Natural Language Processing
 - Deep Learning
 - Data Science
+- Bibliometrics
 
 education:
   courses:
-  - course: RS & PH.D
+  - course: RS & Ph.d
     institution: Graduate School of Engineering, U.Tokyo
     year: 2021- current
   - course: MS.

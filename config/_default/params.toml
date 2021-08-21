@@ -93,14 +93,14 @@ email = "zhaoqiuhan@outlook.com"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "No.10 Xitucheng Road", city = "Beijing", region = "Haidian District", postcode = "100876", country = "China", country_code = "CN"}
+address = {street = "7-chome-3 Hongo", region = "Bunkyo-ku", city = "Tokyo", postcode = "113-0033", country = "Japan", country_code = "JA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "39.9599072545118", longitude = "116.3521206342964"}
+coordinates = {latitude = "35.71444370013434", longitude = "139.76253013499363"}
 
 # Directions for visitors to locate you.
-directions = "Lab 1204, Main building, BUPT"
+directions = "Motohashi Lab, Faculty of Engineering Bldg.3, U.Tokyo"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.

@@ -24,12 +24,13 @@ bio: My research interests include _Natural Language Processing_, _Deep Learning
 interests:
 - 自然言語処理
 - 深層学習
-- ビッグデータとデータサイエンス
+- Bigdata & Data Science
+- 計量書誌学
 
 education:
   courses:
   - course: 博士課程
-    institution: 工学研究科　技術経営戦略専攻　東京大学
+    institution: 工学系研究科　技術経営戦略専攻　東京大学
     year: 2021-current
   - course: 工学修士
     institution: 情報工学研究科　情報セキュリティ専攻　北京郵電大学
