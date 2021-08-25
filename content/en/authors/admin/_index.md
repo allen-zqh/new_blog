@@ -19,7 +19,7 @@ organizations:
   url: "https://www.u-tokyo.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in science economy. If you get interets in my research topics, please contact me as zhaoqiuhan2019@outlook.com.
+bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in science economy. If you get interets in my research topics, please contact me as <font color = "blue">zhaoqiuhan2019@outlook.com</font>.
 
 interests:
 - Natural Language Processing

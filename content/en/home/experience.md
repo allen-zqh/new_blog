@@ -17,26 +17,28 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
 [[experience]]
   title = "Undergraduate Student"
-  company = "Beijing University of Posts and Telecommunications [CS]"
+  company = "Beijing University of Posts and Telecommunications"
   company_url = "https://scs.bupt.edu.cn/"
   location = "Beijing"
   date_start = "2013-09-01"
   date_end = "2017-06-26"
   description = """
  
-  * Ye Peida Institute, BUPT (**Top 1% student**)
+  * [Ye Peida Institute](https://baike.baidu.com/item/%E5%8F%B6%E5%9F%B9%E5%A4%A7%E5%AD%A6%E9%99%A2/4492808), BUPT (**Top 1% student**)
   * Bachelor of Engineering
   * Graduation Thesis (in Chinese)：
        _The Design and Implementation of Chaotic Compressive Sensing Algorithm_ [[Outline]](/img/bkbs.jpg) 
 [[Slide]](/files/slide/bkbs.pdf) [[Paper_shortversion]](/files/paper/bkbs_short.pdf)
-        (average score: 90, won the **2017 outstanding undergraduate thesis award**)
+        (average score: 90 / 100, won the **2017 outstanding undergraduate thesis award**)
  """
 
 [[experience]]
   title = "Graduate Student"
-  company = "Beijing University of Posts and Telecommunications [CSS]"
+  company = "Beijing University of Posts and Telecommunications"
   company_url = "https://scss.bupt.edu.cn/"
   location = "Beijing"
   date_start = "2017-09-01"
@@ -45,9 +47,8 @@ date_format = "Jan 2006"
 
   * Collaborate with Beijing Institute of Science and Technology Information (BISTI) on NLP projects (refer to **Projects** part)
   * Master of Science in Engineering
-  * Graduation Thesis (in Chinese)：
-       _Discovery and Research of Frequent Item in Interdiscipline Based on Deep Learning_ [[Outline]](/img/yjsbs.jpg) [[Slide]](/files/slide/yjsbs.pdf)
-        (average score: 87)
+  * Graduation Thesis (in Chinese)：_Discovery and Research of Frequent Item in Interdiscipline Based on Deep Learning_ [[Outline]](/img/yjsbs.jpg) [[Slide]](/files/slide/yjsbs.pdf)
+        (average score: 87 / 100)
 """
 
 [[experience]]
@@ -69,7 +70,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Intern"
-  company = "Beijing Institute of Science and Technology Information"
+  company = "Beijing Institute of Science and Technology Information (BISTI)"
   company_url = "http://www.bjstinfo.com.cn/"
   location = "Beijing"
   date_start = "2017-10-15"
@@ -81,18 +82,19 @@ date_format = "Jan 2006"
   * Modeling Evaluation in practical NLP problems
 """
 
-[[experience]]
-  title = "Intern"
-  company = "Beijing Institute of Science and Technology Information"
-  company_url = "http://www.bjstinfo.com.cn/"
-  location = "Beijing"
-  date_start = "2017-10-15"
-  date_end = "2019-12-01"
+[[experience]] 
+  title = "Intern" 
+  company = "China Information Technology Security Evaluation Center" 
+  company_url = "http://www.itsec.gov.cn/fz/en/201708/t20170802_15316.html" 
+  location = "Beijing" 
+  date_start = "2017-01-01" 
+  date_end = "2020-10-01" 
   description = """
 
-  * Data Collection
-  * Analysis of DL Algorithms
-  * Modeling Evaluation in practical NLP problems
+  * Vulnerability Detection & Evaluation ([CNNVD](http://www.cnnvd.org.cn/))
+  * Data Analysing (Crawl and Data Science)
+  * Patch 
 """
+
 
 +++
