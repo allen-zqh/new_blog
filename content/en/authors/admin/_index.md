@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 name: Zhao Qiuhan
-role: International Research Student<br>(prospective Ph.d candidate)
+role: MEXT Research Student<br>(prospective Ph.d candidate)
 
 # Organizations/Affiliations
 organizations:

@@ -11,12 +11,12 @@ superuser: true
 
 # Role/position
 name: 趙　秋涵
-role: 修士
+role: 国費研究生<br>（博士課程入試予定）
 
 # Organizations/Affiliations
 organizations:
-- name: 北京郵電大学
-  url: "https://www.bupt.edu.cn/"
+- name: 東京大学
+  url: "https://www.u-tokyo.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include _Natural Language Processing_, _Deep Learning_ and _Data Science_. If you get interets in my research topics, please contact me as allen_zqh@bupt.edu.cn.
