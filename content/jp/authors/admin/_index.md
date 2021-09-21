@@ -19,7 +19,7 @@ organizations:
   url: "https://www.u-tokyo.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include _Natural Language Processing_, _Deep Learning_ and _Data Science_. If you get interets in my research topics, please contact me as allen_zqh@bupt.edu.cn.
+bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in _Science Economy_. If you get interets in my research topics, please contact me as <font color = "blue">zhao@motolabo.net</font>.
 
 interests:
 - 自然言語処理
@@ -72,6 +72,7 @@ user_groups:
 - Visitors
 ---
 
+<!--
 <small>(2020-10-06 22:41 中国 長春)  現在、[中国赴日本国留学生予備校](http://lryx.nenu.edu.cn/)、[東北師範大学（NENU）](http://www.nenu.edu.cn/)にいます。[2021文部科学省博士奨学金](https://www.mext.go.jp/content/20200521-mxt_gakushi02-000007188-02.pdf)の手配する日本語コースが受けていますので、予想される学習時間は2020年10月から2021年8月までです。</small>
 
 2020年6月に**北京郵電大学**を卒業し、工学の修士号を取得しました。 私はこれまでの学生生活の中で最も長い7年間を北京郵電大学で過ごしました。 私の先生、クラスメート、家族を助けてくれてありがとうございます。 新型コロナウイルスの防止の必要性から、私たちは忘れられない「特別な」卒業シーズンを過ごしました。 皆に明るい未来がありますように。
@@ -79,11 +80,11 @@ user_groups:
 学部生の時、コンピュータ、通信工学や電子に関する基礎科目だけでなく、奥深い数理理論知識も習得し、論理的な考え方と多言語のプログラム設計能力を身につけました。大学二年生の時、私は厳しい選抜を経て北京郵電大学の[「葉培大創新学院」](https://baike.baidu.com/item/%E5%8F%B6%E5%9F%B9%E5%A4%A7%E5%AD%A6%E9%99%A2/4492808?fr=aladdin)に入りました。マルチメディアの研究に取り組んでいる[劉亮教授](https://scs.bupt.edu.cn/info/1097/1346.htm)のご指導のもとで勉強し、圧縮センサ、画像やマルチメディアのテキスト処理などと触れ合いました。卒業論文のテーマは「The Design and Implementation of Chaotic Compressive Sensing Algorithm」で、2017年度北京郵電大学「**優秀な卒業論文**」に選ばれました。
  
 ビッグデータの時代において、NLPによってより高速に情報を獲得し、時間を削減することは可能です。私はNLPに深い興味がありますので、北京郵電大学の大学院に入ってから、中国で有名なビッグデータの専門家である[楊文川教授](https://scss.bupt.edu.cn/info/1063/1135.htm)のご指導のもとでNLPの勉強とプロジェクト実践を進めてきました。特にテキスト処理の研究に取り組んでい、テキスト分類やクラスター、文章要約などのプロジェクトに参与しました。
+-->
 
-私の主な研究テーマは**自然言語処理**で、テキストの分類、テキストの要約、推奨されるブランチが含まれます。 さらに、最近**ビッグデータ分析とデータサイエンス**およびその他の関連コンテンツ（例：時系列データ予測）を研究しています。
+こちらは趙秋涵の個人ページです。私は[技術経営専攻](https://tmi.t.u-tokyo.ac.jp/)、[元橋研究室](http://www.mo.t.u-tokyo.ac.jp/)のメンバー、指導教官は[元橋一之教授](http://www.mo.t.u-tokyo.ac.jp/member_motohashi.html)です。主な研究テーマは**自然言語処理**で、テキストの分類、テキストの要約、推奨されるブランチが含まれます。 さらに、最近**Big Data & Data Science**およびその技術を組み合わせて、**サイエンス経済**への応用を研究しています。
 
 詳細については、右上の「English」ページを参照してください。
 
-<small>趣味・専門：卓球、サッカー、歌、囲碁</small>
-
+<small>趣味・専門：卓球、サッカー、歌、囲碁</small><br>
 <small>言語：中国語、英語、日本語</small>

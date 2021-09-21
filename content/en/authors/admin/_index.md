@@ -19,7 +19,7 @@ organizations:
   url: "https://www.u-tokyo.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in science economy. If you get interets in my research topics, please contact me as <font color = "blue">zhaoqiuhan2019@outlook.com</font>.
+bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in _Science Economy_. If you get interets in my research topics, please contact me as <font color = "blue">zhao@motolabo.net</font>.
 
 interests:
 - Natural Language Processing
@@ -30,10 +30,10 @@ interests:
 education:
   courses:
   - course: RS & Ph.d
-    institution: Graduate School of Engineering, U.Tokyo
+    institution: School of Engineering, U.Tokyo
     year: 2021- current
   - course: MS.
-    institution: Graduate School of Cyberspace Security, BUPT
+    institution: School of Cyberspace Security, BUPT
     year: 2017-2020
   - course: BE.
     institution: School of Computer Science, BUPT
@@ -72,14 +72,25 @@ user_groups:
 - Visitors
 ---
 
+<!--
 <small>(2020-10-06 22:41 in Changchun, China)  I am now in the [Preparatory School for Chinese Students to Japan](http://lryx.nenu.edu.cn/), [Northeast Normal University (NENU)](http://www.nenu.edu.cn/) for taking Japanese course, arranged by the [2021 MEXT Scholarship](https://www.mext.go.jp/content/20200521-mxt_gakushi02-000007188-02.pdf). The expected study time is from Oct, 2020 to Aug, 2021.</small>
+-->
 
+<!--
 I was selected by BUPT and attended into [Ye Peida Institute](https://baike.baidu.com/item/%E5%8F%B6%E5%9F%B9%E5%A4%A7%E5%AD%A6%E9%99%A2/4492808?fr=aladdin) when I was an undergraduate. Under the guidance of [Prof. Liu Liang](https://scs.bupt.edu.cn/info/1097/1346.htm), I learned about compression sensing, multimedia computing and intelligent text processing. The undergraduate thesis "_The Design and Implementation of Chaotic Compressive Sensing Algorithm_" won "_2017 Excellent Undergraduate Graduation Thesis Award_" in BUPT. After entering the graduate school, I studied under [Prof. Yang Wenchuan](https://scss.bupt.edu.cn/info/1063/1135.htm) to continue learning natural language processing related research topics.
+-->
 
-I mainly focus on **_Natural Language Processing_**, including text classification, summarization and recommendation. Moreover, I am doing some research on **_Data Science_** (e.g. prediction on time-series data) recently.
+Here is Zhao Qiuhan, a research student belonging to [Motohashi Laboratory](http://www.mo.t.u-tokyo.ac.jp/), [Department of TMI](https://tmi.t.u-tokyo.ac.jp/), supervised by [Prof. Motohashi Kazuyuki](http://www.mo.t.u-tokyo.ac.jp/member_motohashi.html). I mainly focus on **_Natural Language Processing_**, **_Data Science_**, and it's application in **_Science Economy_**.
 
-You can refer to my research in **Projects** and **Publications** this page and I also record my recent work and idea in **Posts**. I will update this page as possible. Additionally, you can click the button in the upper right corner to switch language _(EN-CN-JP)_, but CN and JP only contain personal information page.
+<!--
+You can refer to my research in **Projects** and **Publications**, and I also record my recent work and idea in **Posts**. I will update this page as possible. Additionally, you can click the button in the upper right corner to switch language _(EN-CN-JA)_, but CN and JA only contain personal information page.
+-->
 
-<small>Hobby and Specialty: Table tennis, Singing, Football, Calligraphy and Go</small>
-
+<small>Hobby and Specialty: Table tennis, Singing, Football, Calligraphy and Go</small><br>
 <small>Language: Chinese, English, Japanese</small>
+
+<h1 id=whats-new>What's new</h1>
+
+**Aug.27, 2021:** I have finished courses arranged by the [2021 MEXT Scholarship](https://www.mext.go.jp/content/20200521-mxt_gakushi02-000007188-02.pdf), in the [Preparatory School for Chinese Students to Japan](http://lryx.nenu.edu.cn/), [Northeast Normal University (NENU)](http://www.nenu.edu.cn/).
+
+**Aug.15, 2021:** A [paper](https://www.inderscience.com/info/inarticle.php?artid=116539) has been published by journal [IJWGS](https://www.inderscience.com/jhome.php?jcode=ijwgs).
