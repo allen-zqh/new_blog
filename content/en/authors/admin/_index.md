@@ -93,4 +93,4 @@ You can refer to my research in **Projects** and **Publications**, and I also re
 
 **Aug.27, 2021:** I have finished courses arranged by the [2021 MEXT Scholarship](https://www.mext.go.jp/content/20200521-mxt_gakushi02-000007188-02.pdf), in the [Preparatory School for Chinese Students to Japan](http://lryx.nenu.edu.cn/), [Northeast Normal University (NENU)](http://www.nenu.edu.cn/).
 
-**Aug.15, 2021:** A [paper](https://www.inderscience.com/info/inarticle.php?artid=116539) has been published by journal [IJWGS](https://www.inderscience.com/jhome.php?jcode=ijwgs).
+**Aug.15, 2021:** Our [paper](https://www.inderscience.com/info/inarticle.php?artid=116539) has been published by journal [IJWGS](https://www.inderscience.com/jhome.php?jcode=ijwgs).
