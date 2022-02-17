@@ -1,5 +1,5 @@
 ---
-title: 'Reading Notes (Updating)'
+title: 'Reading Notes (chapter 1-5)'
 #subtitle: 'Create a beautifully simple website in under 10 minutes :rocket:'
 summary: Global Business Strategy -- Kazuyuki Motohashi
 authors:

@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 name: 趙　秋涵
-role: 国費研究生<br>（博士課程入試予定）
+role: 博士一年生
 
 # Organizations/Affiliations
 organizations:
@@ -19,7 +19,7 @@ organizations:
   url: "https://www.u-tokyo.ac.jp/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in _Science Economy_. If you get interets in my research topics, please contact me as <font color = "blue">zhao@motolabo.net</font>.
+bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in _Science Economy_. If you get interets in my research topics, please contact me as <font color = "blue">zhaoqiuhan2019@outlook.com</font>.
 
 interests:
 - 自然言語処理
@@ -31,7 +31,7 @@ education:
   courses:
   - course: 博士課程
     institution: 工学系研究科　技術経営戦略専攻　東京大学
-    year: 2021-current
+    year: 2022-current
   - course: 工学修士
     institution: 情報工学研究科　情報セキュリティ専攻　北京郵電大学
     year: 2017-2020

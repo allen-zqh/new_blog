@@ -88,23 +88,23 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "zhao@motolabo.net"
+email = "zhaoqiuhan2019@outlook.com"
 #phone = "(+86)13908263050"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "7-chome-3 Hongo", region = "Bunkyo-ku", city = "Tokyo", postcode = "113-0033", country = "Japan", country_code = "JA"}
+address = {street = "7-chome-3 Hongo", city = "Tokyo", country = "Japan", country_code = "JA"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
 coordinates = {latitude = "35.71444370013434", longitude = "139.76253013499363"}
 
 # Directions for visitors to locate you.
-directions = "Motohashi Lab, Faculty of Engineering Bldg.3, U.Tokyo"
+directions = "Room 210, Faculty of Engineering Bldg.3, Hongo Campus, U.Tokyo"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-office_hours = ["Workday, 08:30 to 18:30"]
+office_hours = ["Workday, 10:00 to 19:00"]
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 #appointment_url = "https://calendly.com"

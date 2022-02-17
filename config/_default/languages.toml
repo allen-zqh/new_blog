@@ -13,7 +13,7 @@
   contentDir = "content/zh"
   title = "赵 秋涵"
   [zh.params]
-    description = "个人博客"
+    description = "个人主页"
   [[zh.menu.main]]
     name = "关于我"
     url = "#about"
