@@ -91,6 +91,8 @@ You can refer to my research in **Projects** and **Publications**, and I also re
 
 <h1 id=whats-new>What's new</h1>
 
+**Sept.01, 2022:** I join in Prof. Motohashi's project in [RIETI](https://www.rieti.go.jp/en/) as a research assitant.
+
 **Jun.07, 2022:** Our team's [works](/files/slide/OECD_Hackathon_UTokyo.pdf) on [OECD Hackathon](https://github.com/STIPlab/hackathon) for STI policy.
 
 **Apr.01, 2022:** Starting Ph.d course.
