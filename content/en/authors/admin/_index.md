@@ -22,10 +22,10 @@ organizations:
 bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in _Science Economy_. If you get interets in my research topics, please contact me as <font color = "blue">zhaoqiuhan2019@outlook.com</font>.
 
 interests:
-- Natural Language Processing
-- Deep Learning
+- Natural Language Processing/Deep Learning
 - Data Science
-- Bibliometrics
+- Regional Economy
+- Knowledge Spillovers
 
 education:
   courses:
@@ -91,12 +91,16 @@ You can refer to my research in **Projects** and **Publications**, and I also re
 
 <h1 id=whats-new>What's new</h1>
 
+**Apr.07, 2023:** Our working paper about university's impact on regional high-tech startups is avaliable at [RIETI](https://www.rieti.go.jp/jp/publications/summary/23040006.html).
+
 **Sept.01, 2022:** I join in Prof. Motohashi's project in [RIETI](https://www.rieti.go.jp/en/) as a research assitant.
 
 **Jun.07, 2022:** Our team's [works](/files/slide/OECD_Hackathon_UTokyo.pdf) on [OECD Hackathon](https://github.com/STIPlab/hackathon) for STI policy.
 
 **Apr.01, 2022:** Starting Ph.d course.
 
+<!--
 **Aug.27, 2021:** I have finished courses arranged by the [2021 MEXT Scholarship](https://www.mext.go.jp/content/20200521-mxt_gakushi02-000007188-02.pdf), in the [Preparatory School for Chinese Students to Japan](http://lryx.nenu.edu.cn/), [Northeast Normal University (NENU)](http://www.nenu.edu.cn/).
+-->
 
 **Aug.15, 2021:** Our [paper](https://www.inderscience.com/info/inarticle.php?artid=116539) has been published by journal [IJWGS](https://www.inderscience.com/jhome.php?jcode=ijwgs).
