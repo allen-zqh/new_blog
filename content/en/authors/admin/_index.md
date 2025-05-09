@@ -11,7 +11,7 @@ superuser: true
 
 # Role/position
 name: Zhao Qiuhan
-role: Ph.d candidate
+role: Ph.D in Innovation Management
 
 # Organizations/Affiliations
 organizations:
@@ -22,16 +22,18 @@ organizations:
 bio: My research interests include _Natural Language Processing_, _Deep Learning_ , _Data Science_ and it's application in _Science Economy_. If you get interets in my research topics, please contact me as <font color = "blue">zhaoqiuhan2019@outlook.com</font>.
 
 interests:
-- Natural Language Processing/Deep Learning
-- Data Science
-- Regional Economy
-- Knowledge Spillovers
+- Regional innovation systems and regional economic transformation
+- University-driven knowledge spillovers to high-tech startups
+- Regional green innovation and low-carbon development
+- Construction of patent novelty and impact indicators
+- Applications of LLMs in innovation management
+- Urban development & landuse, and innovation ecosystem
 
 education:
   courses:
-  - course: Ph.d
+  - course: Ph.D
     institution: School of Engineering, U.Tokyo
-    year: 2022- current
+    year: 2022-2025
   - course: MS.
     institution: School of Cyberspace Security, BUPT
     year: 2017-2020
@@ -80,7 +82,13 @@ user_groups:
 I was selected by BUPT and attended into [Ye Peida Institute](https://baike.baidu.com/item/%E5%8F%B6%E5%9F%B9%E5%A4%A7%E5%AD%A6%E9%99%A2/4492808?fr=aladdin) when I was an undergraduate. Under the guidance of [Prof. Liu Liang](https://scs.bupt.edu.cn/info/1097/1346.htm), I learned about compression sensing, multimedia computing and intelligent text processing. The undergraduate thesis "_The Design and Implementation of Chaotic Compressive Sensing Algorithm_" won "_2017 Excellent Undergraduate Graduation Thesis Award_" in BUPT. After entering the graduate school, I studied under [Prof. Yang Wenchuan](https://scss.bupt.edu.cn/info/1063/1135.htm) to continue learning natural language processing related research topics.
 -->
 
-Here is Zhao Qiuhan, a Ph.d student belonging to [Motohashi Laboratory](http://www.mo.t.u-tokyo.ac.jp/), Department of Technology Management for Innovation ([TMI](https://tmi.t.u-tokyo.ac.jp/)), supervised by [Prof. Motohashi Kazuyuki](http://www.mo.t.u-tokyo.ac.jp/member_motohashi.html). I mainly focus on **_Natural Language Processing_**, **_Data Science_**, and it's application in **_Science Economy_**.
+I obtained my Ph.D. in Innovation Management under the supervision of [Prof. Motohashi Kazuyuki](http://www.mo.t.u-tokyo.ac.jp/member_motohashi.html) in Department of Technology Management for Innovation ([TMI](https://tmi.t.u-tokyo.ac.jp/)), with a research focus on the full cycle of “Re-
+search Collaboration – New Knowledge Creation – Patenting – Commercialization.” My expertise
+lies in applying Natural Language Processing (NLP) and Large Language Models (LLMs) to the
+preprocessing and analysis of large-scale textual corpora, including web pages and patent docu-
+ments. In addition, I explore topics in economic geography, particularly knowledge spillovers and
+the development of regional innovation ecosystems, employing tools such as ArcGIS for spatial
+analysis.
 
 <!--
 You can refer to my research in **Projects** and **Publications**, and I also record my recent work and idea in **Posts**. I will update this page as possible. Additionally, you can click the button in the upper right corner to switch language _(EN-CN-JA)_, but CN and JA only contain personal information page.
@@ -90,6 +98,10 @@ You can refer to my research in **Projects** and **Publications**, and I also re
 <small>Language: Chinese, English, Japanese</small>
 
 <h1 id=whats-new>What's new</h1>
+
+**Apr.07, 2023:** Our working paper about university's impact on regional high-tech startups is avaliable at [RIETI](https://www.rieti.go.jp/jp/publications/summary/23040006.html).
+
+**Apr.07, 2023:** Our working paper about university's impact on regional high-tech startups is avaliable at [RIETI](https://www.rieti.go.jp/jp/publications/summary/23040006.html).
 
 **Apr.07, 2023:** Our working paper about university's impact on regional high-tech startups is avaliable at [RIETI](https://www.rieti.go.jp/jp/publications/summary/23040006.html).
 
@@ -103,4 +115,4 @@ You can refer to my research in **Projects** and **Publications**, and I also re
 **Aug.27, 2021:** I have finished courses arranged by the [2021 MEXT Scholarship](https://www.mext.go.jp/content/20200521-mxt_gakushi02-000007188-02.pdf), in the [Preparatory School for Chinese Students to Japan](http://lryx.nenu.edu.cn/), [Northeast Normal University (NENU)](http://www.nenu.edu.cn/).
 -->
 
-**Aug.15, 2021:** Our [paper](https://www.inderscience.com/info/inarticle.php?artid=116539) has been published by journal [IJWGS](https://www.inderscience.com/jhome.php?jcode=ijwgs).
+**Aug.15, 2021:** Our [paper](https://www.inderscience.com/info/inarticle.php?artid=116539) has been published at [IJWGS](https://www.inderscience.com/jhome.php?jcode=ijwgs).
